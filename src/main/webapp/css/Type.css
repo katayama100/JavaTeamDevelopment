@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+h2{
+	text-align: center;
+}
+
+p{
+	font-weight: bolder;
+	
+}
+
+.but{
+	font-weight: bold;
+	padding: 10px;
+	width: 25%;
+	background-color: 	#66CCFF;
+	
+}
+
+.box{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	max-width: 40%;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	box-sizing: border-box;
+	
+}
